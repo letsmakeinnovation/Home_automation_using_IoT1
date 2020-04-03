@@ -4,7 +4,7 @@ Home automation using IoT with google assistant
 
 (1-channel RELAY)
 
-RELAY has a 2 pin:
+RELAY has a 3 pin:
  
  1 p i n   -   a p p l i c a t i o n   ( E x :   b u l b ,   l a m p ,   f a n ) 
  

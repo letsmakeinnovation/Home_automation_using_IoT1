@@ -1,8 +1,8 @@
-# prasanthcbe3000-gmail.com
+# Home_automation_using_IoT1
 
 Home automation using IoT with google assistant 
 
-(1-channel RELAY)
+(4-channel RELAY)
 
 RELAY has a 3 pin:
  
